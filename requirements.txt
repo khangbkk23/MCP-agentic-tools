@@ -1,0 +1,12 @@
+mcp>=1.0.0
+pydantic
+python-dotenv
+
+numpy
+faiss-cpu
+sentence-transformers==3.0.1
+
+pytest==8.2.2
+pytest-asyncio==0.23.7
+mypy==1.10.0
+ruff==0.4.10
